@@ -41,9 +41,6 @@ Atau menggunakan `docker-compose.yaml`
 docker-compose up
 ```
 
-Jika sudah, maka Anda bisa mengakses website pada localhost dengan host dan port seperti di bawah ini.
-![docker-compose up](assets/image.png)
-
 ## Disclaimer
 
 Project masih dalam tahap pengerjaan dan diperkirakan selesai pada awal Desember 2023.
